@@ -1,0 +1,10 @@
+1. Stage all files that were changes with 
+git add .
+
+2. Commit all the changes locally
+git commit -m "your message here"
+
+3. Push your work to Github
+git push
+
+# Commit after each module to create a handy checkpoint to return to if required.
